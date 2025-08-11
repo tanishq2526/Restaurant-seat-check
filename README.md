@@ -68,7 +68,7 @@ Compile the code
 ▶️  Basic terminal-based interaction
 
 🙌 Author
-Developed by Your Name
+Developed by Tanishq sonu
 📧 tanishq.25.ts@gmail.com
 🧑‍💻 GitHub: tanishq2526
 
